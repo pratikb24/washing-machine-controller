@@ -56,7 +56,7 @@ washing-machine-controller/
 |── wm_fsm.v                # Moore control FSM
 |── washing_machine_top.v   # top level (FSM + timer)
 |── tb_washing_machine.v    # self-checking testbench
-|── .gitignore
+|── download
 |── LICENSE
 |── README.md
 ```
